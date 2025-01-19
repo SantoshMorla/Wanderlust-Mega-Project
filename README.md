@@ -297,7 +297,7 @@ sudo apt-get install trivy -y
 ![image](https://github.com/user-attachments/assets/cffb6e1d-4838-483e-97e0-6851c204ab21)
 
 #
-## Steps to implement the project:
+## Steps to implement the projects:
 - <b>Go to Jenkins Master and click on <mark> Manage Jenkins --> Plugins --> Available plugins</mark> install the below plugins:</b>
   - OWASP
   - SonarQube Scanner
